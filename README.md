@@ -4,7 +4,7 @@
 Phase II expanded transcript digitization to ~220,000 postgraduate records, supporting the university’s global alumni engagement strategy. The project introduced foreign currency payments and decoupled courier fees while embedding **data governance and quality practices** guided by the **DAMA framework**.  
 
 ## Key Contributions  
-- Digitized and validated **212,812 transcript records**, achieving a **22% data quality improvement** through secondary validation.  
+- Digitized and validated **212,816 transcript records**, achieving a **22% data quality improvement** through secondary validation.  
 - Conducted **data quality checks against hard copy records** before secure **cloud migration**, ensuring integrity and compliance.  
 - Built automated profiling and reporting dashboards for stakeholders using **Power BI**.  
 - Reduced transcript servicing time from **30 days to 1 day (93% faster)**.  
